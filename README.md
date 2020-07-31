@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋, this is Abhishek Choudhary, a machine learning enthusiast.
+(Also likes to be enthusiastic about almost everything else.)
 
 <!--
 **abhishek-choudharys/abhishek-choudharys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

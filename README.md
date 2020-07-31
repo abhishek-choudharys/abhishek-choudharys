@@ -1,5 +1,5 @@
-### Hi 👋, this is Abhishek Choudhary, a machine learning enthusiast.
-(Also likes to be enthusiastic about almost everything else.)
+<h2> Hi 👋, this is Abhishek Choudhary, a machine learning enthusiast. </h2>
+<h4>(Also likes to be enthusiastic about almost everything else 🤩)</h4>
 
 <p><br /><strong>Everything else:</strong></p>
 

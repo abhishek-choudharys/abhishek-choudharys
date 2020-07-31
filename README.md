@@ -1,5 +1,4 @@
-<h2> Hi 👋, this is Abhishek Choudhary, a machine learning enthusiast. </h2>
-<h4>(Also likes to be enthusiastic about almost everything else 🤩)</h4>
+### Hi 👋, this is Abhishek Choudhary, a machine learning enthusiast. 
 <a href="https://www.linkedin.com/in/abhishek-choudharys/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -10,6 +9,7 @@
   <img align="left" alt="Abhishek's Tweets" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
+<h4>(Also likes to be enthusiastic about almost everything else 🤩)</h4>
 <p><br /><strong>Everything else:</strong></p>
 
 <!--

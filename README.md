@@ -10,7 +10,7 @@
 </a>
 
 </br>
-<h4>(Also likes to be enthusiastic about almost everything else 🤩)</h4>
+<h4>(Also likes to be enthusiastic about everything else 🤩)</h4>
 <p><br /><strong>Everything else:</strong></p>
 
 <!--

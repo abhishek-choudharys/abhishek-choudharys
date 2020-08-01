@@ -99,3 +99,8 @@ To connect with me,
 
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="20%" height="10%">
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-choudharys&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abhishek-choudharys.abhishek-choudharys)

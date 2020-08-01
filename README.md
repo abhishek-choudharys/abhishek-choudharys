@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Reinforcement Learning.
-- 💬 Ask me about ...
+- 💬 Ask me just about anything. If i know, 
 - 📫 How to reach me: iam.abhishek.choudharys@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 

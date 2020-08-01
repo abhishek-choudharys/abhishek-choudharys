@@ -21,12 +21,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on <a href = "https://github.com/abhishek-choudharys/dark-images-dataset-mini-2">LUMOS</a> (Capstone).
-- 🌱 I’m currently learning Blender.
-<!-- - 👯 I’m looking to collaborate on --> 
+- 🌱 I’m currently learning Blender. <!-- - 👯 I’m looking to collaborate on --> 
 - 🤔 I’m looking for help with Reinforcement Learning.
-- 💬 Ask me just about anything. If i know, 
-- 📫 How to reach me: iam.abhishek.choudharys@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- 💬 Ask me just about anything.
+- 📫 How to reach me: iam.abhishek.choudharys@gmail.com <!-- - 😄 Pronouns: He/Him -->
+- ⚡ Fun fact: I am fun, and that's a fact.
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=abhishek-choudharys&show_icons=true&theme=tokyonight" alt="Abhishek Choudhary" /> </p>

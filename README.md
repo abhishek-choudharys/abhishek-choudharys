@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=abhishek-choudharys&show_icons=true&theme=tokyonight" alt="Abhishek Choudhary" /> </p>

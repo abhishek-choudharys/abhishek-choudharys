@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/google_cloud_platform.svg" alt="google_cloud_platform" width="270" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" width="240" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/devices/pc.svg" alt="pc" width="110" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/powershell.svg" alt="powershell" width="170" hight="50">
 </br>
 
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/codechef.svg" alt="codechef" width="160" hight="50">
@@ -41,8 +42,8 @@ Here are some ideas to get you started:
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/hackerrank.svg" alt="playstation" width="160" hight="50">
 </br>
 
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/gamedev.svg" alt="codechef" width="160" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/powershell.svg" alt="edge" width="140" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/gamedev.svg" alt="gamedev" width="160" hight="50">
+
 </p>
 
 <p>

@@ -40,11 +40,6 @@ Here are some ideas to get you started:
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/hackerrank.svg" alt="playstation" width="160" hight="50">
 </p>
 
-To connect with me,
-
-
-
-
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=abhishek-choudharys&icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
   <p>

@@ -3,19 +3,13 @@
 </br>
 <h4>(Also likes to be enthusiastic about everything else 🤩)</h4>
 <p><strong>Everything else:</strong></p>
-<p>I am a final year Computer Engineering student at Thapar Instutute of Engineering and Technology. </p>
-
-<!--
-**abhishek-choudharys/abhishek-choudharys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+<p>I am a final year Computer Engineering student at Thapar Instutute of Engineering and Technology. I enjoy learning. </p>
 
 - 🔭 I’m currently working on <a href = "https://abhishek-choudharys.github.io/dark-images-dataset-mini-2/">LUMOS</a> (Capstone).
 - 🌱 I’m currently learning Reinforcement Learning. <!-- - 👯 I’m looking to collaborate on --> 
 - 🤔 I’m looking for help with Temporal difference learning.
 - 💬 Ask me just about anything.
-- 📫 How to reach me: iam.abhishek.choudharys@gmail.com <!-- - 😄 Pronouns: He/Him -->
+- 📫 How to reach me: iam.abhishek.choudharys@gmail.com
 <!-- - ⚡ Fun fact: -->
 
 # Languages & Tools 👨‍💻 🛠:

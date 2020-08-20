@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/devices/pc.svg" alt="pc" width="110" hight="50">
 </br>
 
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/codechef.svg" alt="codechef" width="160" hight="50">

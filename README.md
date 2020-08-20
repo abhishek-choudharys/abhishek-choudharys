@@ -28,16 +28,21 @@ Here are some ideas to get you started:
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/qt.png" alt="qt" width="85" hight="50">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/html.png" alt="html5"  width="120" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/r.svg" alt="r" width="90" hight="50">
 
 </br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/google_cloud_platform.svg" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" width="240" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/devices/pc.svg" alt="pc" width="110" hight="50">
 </br>
 
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/codechef.svg" alt="codechef" width="160" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/leetcode.svg" alt="edge" width="140" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/hackerrank.svg" alt="playstation" width="160" hight="50">
+</br>
+
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/gamedev.svg" alt="codechef" width="160" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/powershell.svg" alt="edge" width="140" hight="50">
 </p>
 
 <p>

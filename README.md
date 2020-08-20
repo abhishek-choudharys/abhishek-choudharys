@@ -19,15 +19,15 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on <a href = "https://github.com/abhishek-choudharys/dark-images-dataset-mini-2">LUMOS</a> (Capstone).
-- 🌱 I’m currently learning Blender. <!-- - 👯 I’m looking to collaborate on --> 
-- 🤔 I’m looking for help with Reinforcement Learning.
+- 🔭 I’m currently working on <a href = "https://abhishek-choudharys.github.io/dark-images-dataset-mini-2/">LUMOS</a> (Capstone).
+- 🌱 I’m currently learning Reinforcement Learning. <!-- - 👯 I’m looking to collaborate on --> 
+- 🤔 I’m looking for help with Temporal difference learning.
 - 💬 Ask me just about anything.
 - 📫 How to reach me: iam.abhishek.choudharys@gmail.com <!-- - 😄 Pronouns: He/Him -->
-- ⚡ Fun fact: I am fun, and that's a fact.
+<!-- - ⚡ Fun fact: -->
 
+<!--
 **Languages and Tools:**
-
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
@@ -38,16 +38,16 @@ Here are some ideas to get you started:
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+-->
 
 # Languages & Tools 👨‍💻 🛠:
 </br>
-
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="AI" width="90" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
 </br>

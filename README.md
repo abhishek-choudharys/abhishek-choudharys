@@ -48,7 +48,7 @@
 </br>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=abhishek-choudharys&show_icons=true&theme=tokyonight" alt="Abhishek Choudhary" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-choudharys&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight" alt="Abhishek Choudhary" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-choudharys&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight" alt="Abhishek Choudhary" width="400"/>
   
 
 </p>

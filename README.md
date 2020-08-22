@@ -46,7 +46,12 @@
 
 ## Stuff I did ⏳:
 </br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhishek-choudharys&show_icons=true&theme=tokyonight" alt="Abhishek Choudhary" /> </p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-choudharys&show_icons=true&theme=tokyonight" alt="Abhishek Choudhary" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-choudharys&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight" alt="Abhishek Choudhary" height="150"/>
+  
+
+</p>
 <br/>
 
 <font size = "2">
@@ -75,7 +80,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-choudharys&hide=TeX&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-choudharys&hide=TeX,OpenEdge%20ABL&layout=compact)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abhishek-choudharys.abhishek-choudharys)
 
 

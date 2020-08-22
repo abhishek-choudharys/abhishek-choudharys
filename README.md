@@ -37,7 +37,7 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/gamedev.svg" alt="gamedev" width="150" hight="50">
 </br>
 
-*I plan to add a lot more.*
+<p align="center"> *I plan to add a lot more.* </p>
 
 <!--
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/gmail.svg" alt="email" width="115" hight="50">

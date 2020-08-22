@@ -74,8 +74,6 @@
 </a>
 </div>
 
-- Sudoku: https://adarsh-anand.github.io/Sudoku/
-
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="20%" height="10%">
 
 

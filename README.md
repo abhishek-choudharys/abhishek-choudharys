@@ -48,11 +48,15 @@
 </br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhishek-choudharys&show_icons=true&theme=tokyonight" alt="Abhishek Choudhary" /> </p>
 <br/>
-<div align="left">
-<a href="https://github.com/abhishek-choudharys/PokemonGAN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-choudharys&repo=PokemonGAN&theme=dracula" />
-</a>
-</div>
+
+<font size = "2">
+
+- PokemonGAN: https://abhishek-choudharys.github.io/PokemonGAN/
+- Human-Pokemon-CycleGAN: https://abhishek-choudharys.github.io/human-pokemon-cycleGAN
+- LUMOS: https://abhishek-choudharys.github.io/dark-images-dataset-mini-2/
+- Sudoku: https://adarsh-anand.github.io/Sudoku/
+
+</font>
 
 
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -60,6 +64,12 @@
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--
+<div align="left">
+<a href="https://github.com/abhishek-choudharys/PokemonGAN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-choudharys&repo=PokemonGAN&theme=dracula" />
+</a>
+</div>
+
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="20%" height="10%">
 
 

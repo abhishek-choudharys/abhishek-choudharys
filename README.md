@@ -36,6 +36,7 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/hackerrank.svg" alt="playstation" width="160" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/gamedev.svg" alt="gamedev" width="150" hight="50">
 </br>
+*I plan to add a lot more.*
 <!--
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/gmail.svg" alt="email" width="115" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/outlook.svg" alt="outlook" width="130" hight="50">
@@ -46,7 +47,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhishek-choudharys&show_icons=true&theme=tokyonight" alt="Abhishek Choudhary" /> </p>
 
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!--------------------------------------------------Extra stuff -------------------------------------------------------------------------------------------------------->
+<!----------------------------------------------------------------Extra stuff ------------------------------------------------------------------------------------------>
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--

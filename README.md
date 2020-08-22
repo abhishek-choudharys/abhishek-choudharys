@@ -12,7 +12,7 @@
 - 📫 How to reach me: iam.abhishek.choudharys@gmail.com
 - ⚡ Fun fact: Fantasy Writer. Someone who fantasizes about being a writer.
 
-## Languages & Tools 👨‍💻 🛠:
+## Stuff I know 👨‍💻 🛠:
 </br>
 <p align="center">
 

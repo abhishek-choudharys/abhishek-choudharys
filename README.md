@@ -48,12 +48,9 @@
 </br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhishek-choudharys&show_icons=true&theme=tokyonight" alt="Abhishek Choudhary" /> </p>
 <br/>
-<div align="center">
+<div align="left">
 <a href="https://github.com/abhishek-choudharys/PokemonGAN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-choudharys&repo=PokemonGAN&theme=dracula" />
-</a>
-<a href="https://github.com/abhishek-choudharys/human-pokemon-cycleGAN">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-choudharys&repo=human-pokemon-cycleGAN&theme=dracula" />
 </a>
 </div>
 

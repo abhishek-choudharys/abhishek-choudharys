@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with Temporal difference learning.
 - 💬 Ask me just about anything.
 - 📫 How to reach me: iam.abhishek.choudharys@gmail.com
-<!-- - ⚡ Fun fact: -->
+- ⚡ Fun fact: Fantasy Writer. Someone who fantasizes about being a writer.
 
 ## Languages & Tools 👨‍💻 🛠:
 </br>
@@ -45,7 +45,10 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhishek-choudharys&show_icons=true&theme=tokyonight" alt="Abhishek Choudhary" /> </p>
 
-
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------Extra stuff -------------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="20%" height="10%">
 

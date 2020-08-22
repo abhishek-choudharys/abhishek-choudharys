@@ -36,9 +36,7 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/hackerrank.svg" alt="playstation" width="160" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/gamedev.svg" alt="gamedev" width="150" hight="50">
 </br>
-
-<p align="center"> *I plan to add a lot more.* </p>
-
+*I plan to add a lot more.* 
 <!--
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/gmail.svg" alt="email" width="115" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/outlook.svg" alt="outlook" width="130" hight="50">

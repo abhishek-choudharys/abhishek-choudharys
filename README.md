@@ -56,8 +56,8 @@
 
 <font size = "2">
 
-- PokemonGAN: https://abhishek-choudharys.github.io/PokemonGAN/
 - Human-Pokemon-CycleGAN: https://abhishek-choudharys.github.io/human-pokemon-cycleGAN
+- PokemonGAN: https://abhishek-choudharys.github.io/PokemonGAN/
 - LUMOS: https://abhishek-choudharys.github.io/dark-images-dataset-mini-2/
 
 </font>

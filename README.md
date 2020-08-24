@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with Temporal difference learning.
 - 💬 Ask me just about anything.
 - 📫 How to reach me: iam.abhishek.choudharys@gmail.com
-<!-- - ⚡ Fun fact: Fantasy Writer. Someone who fantasizes about being a writer. -->
+- ⚡ Fun fact: Everytime you paint a room, it gets a little bit smaller.
 
 ## Stuff I do/know 👨‍💻 🛠:
 </br>

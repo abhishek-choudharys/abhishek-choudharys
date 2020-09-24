@@ -1,7 +1,7 @@
 ## Hi 👋, this is Abhishek Choudhary, a machine learning ❤ enthusiast. 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lost_introvert) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhishek-choudharys/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/awsm_abhishek_/) ![Visits Badge](https://badges.pufler.dev/visits/abhishek-choudharys/abhishek-choudharys?style=for-the-badge) 
 </br>
-![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-choudharys&theme=gruvbox)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-choudharys&theme=gruvbox) -->
 <h4>(Also likes to be enthusiastic about everything else 🤩)</h4>
 <p><strong>Everything else:</strong></p>
 <p>I am a final year Computer Engineering student at Thapar Instutute of Engineering and Technology. I enjoy learning and making stuff. </p>

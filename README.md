@@ -7,8 +7,8 @@
 <p>I am a final year Computer Engineering student at Thapar Instutute of Engineering and Technology. I enjoy learning and making stuff. </p>
   
 - 🔭 I’m currently working on <a href = "https://abhishek-choudharys.github.io/dark-images-dataset-mini-2/">LUMOS</a> (Capstone).
-- 🌱 I’m currently learning Reinforcement Learning. <!-- - 👯 I’m looking to collaborate on --> 
-- 🤔 I’m looking for help with Temporal difference learning.
+- 🌱 I’m currently learning GCP and Blender. <!-- - 👯 I’m looking to collaborate on --> 
+- 🤔 I’m looking for help with Blender animations.
 - 💬 Ask me just about anything.
 - 📫 How to reach me: iam.abhishek.choudharys@gmail.com
 - ⚡ Fun fact: Everytime you paint a room, it gets a little bit smaller.

@@ -5,6 +5,8 @@
 <h4>(Also likes to be enthusiastic about everything else 🤩)</h4>
 <p><strong>Everything else:</strong></p>
 <p>I am a final year Computer Engineering student at Thapar Instutute of Engineering and Technology. I enjoy learning and making stuff. </p>
+
+<img style="float: right;" src = "https://github.com/abhishek-choudharys/blender-projects/blob/main/MagicForest/magicForest.gif" >
   
 - 🔭 I’m currently working on <a href = "https://abhishek-choudharys.github.io/dark-images-dataset-mini-2/">LUMOS</a> (Capstone).
 - 🌱 I’m currently learning GCP and Blender. <!-- - 👯 I’m looking to collaborate on --> 

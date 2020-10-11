@@ -7,7 +7,8 @@
 <p>I am a final year Computer Engineering student at Thapar Instutute of Engineering and Technology. I enjoy learning and making stuff. </p>
 
 <p>
-<img style="float: right;" src = "https://github.com/abhishek-choudharys/blender-projects/blob/main/MagicForest/magicForest.gif" width="450">
+  
+<img align="right" alt="GIF" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/MagicForest/magicForest.gif" width="400"/>
   
 - 🔭 I’m currently working on <a href = "https://abhishek-choudharys.github.io/dark-images-dataset-mini-2/">LUMOS</a> (Capstone).
 - 🌱 I’m currently learning GCP and Blender. <!-- - 👯 I’m looking to collaborate on --> 

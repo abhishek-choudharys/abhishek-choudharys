@@ -71,7 +71,7 @@
 - Human-Pokemon-CycleGAN: https://abhishek-choudharys.github.io/human-pokemon-cycleGAN
 - PokemonGAN: https://abhishek-choudharys.github.io/PokemonGAN/
 - LUMOS: https://abhishek-choudharys.github.io/dark-images-dataset-mini-2/
-- Blender Projects: https://abhishek-choudharys.github.io/blender-projects/
+- Blender Projects: https://github.com/abhishek-choudharys/blender-projects
 
 </font>
 

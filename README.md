@@ -4,7 +4,7 @@
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-choudharys&theme=gruvbox) -->
 <h4>(Also likes to be enthusiastic about everything else 🤩)</h4>
 <p><strong>Everything else:</strong></p>
-<p>I am a final year Computer Engineering student at Thapar Institute of Engineering and Technology. I like learning and making stuff. </p>
+<p>I am a final year Computer Engineering student at Thapar Institute of Engineering and Technology. I like learning and creating stuff. </p>
 <br/>
 
 <p>

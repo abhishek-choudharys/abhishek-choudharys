@@ -9,7 +9,7 @@
 
 <p>
   
-<img align="right" alt="GIF" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus/plexus.gif" width="400"/>
+<img align="right" alt="GIF" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Demons/demons.png" width="400"/>
 <br/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhishek-choudharys.abhishek-choudharys)

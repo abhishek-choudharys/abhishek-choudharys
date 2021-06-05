@@ -66,8 +66,11 @@
 </p>
 <br/>
 
-[![Abhishek's github streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek-choudharys&theme=blue-green)]()
+<p align="center"> 
+  [![Abhishek's github streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek-choudharys&theme=blue-green)]()
 
+</p>
+<br/>
 
 <font size = "2">
 

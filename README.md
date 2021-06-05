@@ -67,7 +67,7 @@
 <br/>
 
 <p align="center"> 
-  [![Abhishek's github streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek-choudharys&theme=blue-green)]()
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-choudharys&theme=blue-green" />
 
 </p>
 <br/>

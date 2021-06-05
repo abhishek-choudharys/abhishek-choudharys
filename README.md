@@ -66,7 +66,7 @@
 </p>
 <br/>
 
-[![Abhishek's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-choudharys&theme=blue-green)]()
+[![Abhishek's github streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek-choudharys&theme=blue-green)]()
 
 
 <font size = "2">

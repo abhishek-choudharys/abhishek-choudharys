@@ -72,7 +72,7 @@
 </p>
 
 <p align="center"> 
-   [![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-choudharys&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+   [trophy](https://github-profile-trophy.vercel.app/?username=abhishek-choudharys&theme=onedark)
 </p>
 
 <br/>

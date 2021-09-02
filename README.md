@@ -72,7 +72,7 @@
 </p>
 
 <p align="center"> 
-   [trophy](https://github-profile-trophy.vercel.app/?username=abhishek-choudharys&theme=onedark)
+   <img src= "https://github-profile-trophy.vercel.app/?username=abhishek-choudharys&theme=onedark" />
 </p>
 
 <br/>

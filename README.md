@@ -70,6 +70,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-choudharys&theme=blue-green" />
 
 </p>
+
+<p align="center"> 
+   [![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-choudharys&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
+
 <br/>
 
 <font size = "2">

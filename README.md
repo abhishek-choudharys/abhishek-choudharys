@@ -27,7 +27,7 @@
 </p>
 
 ## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/abhishek-choudharys/Actions/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/abhishek-choudharys/abhishek-choudharys/blob/output/github-contribution-grid-snake.svg)
   
 ## Stuff I do/know 👨‍💻 🛠:
 </br>

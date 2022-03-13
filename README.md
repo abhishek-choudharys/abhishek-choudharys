@@ -15,10 +15,10 @@
 <br/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhishek-choudharys.abhishek-choudharys)
-- 🔭 I’m currently working on <a href = "https://abhishek-choudharys.github.io/dark-images-dataset-mini-2/">LUMOS</a> (Capstone).
-- 🌱 I’m currently learning GCP and Blender. <!-- - 👯 I’m looking to collaborate on --> 
-- 🤔 I’m looking for help with Blender animations.
-- 💬 Ask me just about anything.
+- 🔭 I’m currently working as a Software/Data Engineer at BlueOptima.
+- 🌱 I’m currently learning about Spring and how to do taxes. <!-- - 👯 I’m looking to collaborate on --> 
+- 🤔 I’m looking for help with Spring.
+- 💬 Ask me just about anything. I am happy to help.
 - 📫 How to reach me: iam.abhishek.choudharys@gmail.com
 - ⚡ Fun fact: Everytime you paint a room, it gets a little bit smaller.
 

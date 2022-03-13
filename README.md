@@ -76,11 +76,11 @@
 
 </p>
 
-<p align="center"> 
+<!-- <p align="center"> 
    <img src= "https://github-profile-trophy.vercel.app/?username=abhishek-choudharys&theme=onedark" />
-</p>
+</p> -->
 
-<br/>
+<!-- <br/> -->
 
 <font size = "2">
 

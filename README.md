@@ -1,7 +1,8 @@
 <!--<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=0yze7yareh19u7dy1kjabm97m&cover_image=true&theme=default&bar_color_cover=true" width="200"/>
 -->
 ## Hi 👋, I am Abhishek Choudhary, a technology ❤ enthusiast. 
-<img  src="data/borderseperator.gif">
+<!-- <img  src="data/borderseperator.gif"> -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhishek-choudharys/) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lost_introvert) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/abhishek_choudhary.99/) [<img src = "https://img.shields.io/badge/blender art-%23FE6D03.svg?&style=for-the-badge&logo=blender&logoColor=white">](https://github.com/abhishek-choudharys/blender-projects/blob/main/README.md) [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:abhishek931999@gmail.com) 
 <!-- ![Visits Badge](https://badges.pufler.dev/visits/abhishek-choudharys/abhishek-choudharys?style=for-the-badge) -->

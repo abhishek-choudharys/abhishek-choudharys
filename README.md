@@ -17,7 +17,7 @@
 
 ![Visits badge](https://visitor-badge.glitch.me/badge?page_id=abhishek-choudharys.abhishek-choudharys)
 - 🔭 I’m currently working as a Data Engineer at BlueOptima.
-- 🌱 I’m currently learning about Kubernetes and how to do taxes. <!-- - 👯 I’m looking to collaborate on --> 
+- 🌱 I’m currently learning about Django and Design patterns. <!-- - 👯 I’m looking to collaborate on --> 
 - 🤔 I’m looking for help with Cloud technologies.
 - 💬 Ask me just about anything. I am happy to help.
 - 📫 How to reach me: iam.abhishek.choudharys@gmail.com

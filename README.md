@@ -15,7 +15,7 @@
 <p>
 <img align="right" alt="GIF" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus/plexus.gif" width="350"/>
 
-![Visits badge](https://visitor-badge.glitch.me/badge?page_id=abhishek-choudharys.abhishek-choudharys)
+<!-- ![Visits badge](https://visitor-badge.glitch.me/badge?page_id=abhishek-choudharys.abhishek-choudharys) -->
 - 🔭 I’m currently working as a Data Engineer at BlueOptima.
 - 🌱 I’m currently learning about Django and Design patterns. <!-- - 👯 I’m looking to collaborate on --> 
 - 🤔 I’m looking for help with Cloud technologies.

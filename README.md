@@ -5,7 +5,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhishek-choudharys/) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lost_introvert) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/abhishek_choudhary.99/) [<img src = "https://img.shields.io/badge/blender art-%23FE6D03.svg?&style=for-the-badge&logo=blender&logoColor=white">](https://github.com/abhishek-choudharys/blender-projects/blob/main/README.md) [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:abhishek931999@gmail.com) 
-<!-- ![Visits Badge](https://badges.pufler.dev/visits/abhishek-choudharys/abhishek-choudharys?style=for-the-badge) -->
+![Visits Badge](https://badges.pufler.dev/visits/abhishek-choudharys/abhishek-choudharys?style=for-the-badge)
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-choudharys&theme=gruvbox) -->
 <!-- <h4>(Also likes to be enthusiastic about everything else 🤩)</h4>
@@ -27,8 +27,10 @@
 <br/>
 </p>
 
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/abhishek-choudharys/abhishek-choudharys/blob/output/github-contribution-grid-snake.svg)
+<!-- [![@abhishek-choudharys' Holopin board](https://holopin.me/abhishekchoudhary)](https://holopin.io/@abhishekchoudhary) -->
+
+<!-- ## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/abhishek-choudharys/abhishek-choudharys/blob/output/github-contribution-grid-snake.svg) -->
   
 <!-- ## Stuff I do/know 👨‍💻 🛠:
 </br>

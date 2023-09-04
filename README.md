@@ -69,8 +69,8 @@
 ## Stuff I did ⏳:
 </br>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-choudharys&show_icons=true&theme=tokyonight&count_private=true" width="445" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-choudharys&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=true" alt="Abhishek Choudhary" width="390"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishek-choudharys&show_icons=true&theme=tokyonight&count_private=true" width="445" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishek-choudharys&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=true" alt="Abhishek Choudhary" width="390"/>
   
 
 </p>

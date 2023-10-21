@@ -19,7 +19,7 @@
 
 <!-- ![Visits badge](https://visitor-badge.glitch.me/badge?page_id=abhishek-choudharys.abhishek-choudharys) -->
 - 🔭 I’m currently working as a Software Engineer at BlueOptima.
-- 🌱 I’m currently learning about Django and Design patterns. <!-- - 👯 I’m looking to collaborate on --> 
+- 🌱 I’m currently learning about Design patterns and optimization techiniques. <!-- - 👯 I’m looking to collaborate on --> 
 - 🤔 I’m looking for help with serverless deployment hell.
 - 💬 Ask me just about anything. I am happy to help.
 - 📫 How to reach me: iam.abhishek.choudharys@gmail.com
